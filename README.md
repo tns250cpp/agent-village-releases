@@ -7,7 +7,7 @@ Codex 작업을 3D 에이전트 마을에서 관리하는 Windows 데스크톱 �
 [최신 버전 다운로드](https://github.com/tns250cpp/agent-village-releases/releases/latest)
 
 - `Agent-Village-3D-<버전>-portable.exe`: 설치 없이 실행하는 버전
-- `Agent Village_<버전>_x64-setup.exe`: Windows 설치파일
+- `Agent.Village_<버전>_x64-setup.exe`: Windows 설치파일
 - `SHA256SUMS.txt`: 다운로드 파일의 SHA-256 검증값
 
 Windows 10/11 x64 및 Microsoft Edge WebView2가 필요합니다. 실제 AI 작업에는 Codex 로그인이 필요하며 계정의 사용량 한도가 적용됩니다.
